@@ -17,3 +17,7 @@ __________________________________________________________________________
 - 4º Parâmetro = Valor do jogo.
 - 5º Parâmetro = Genero do jogo.
 - 6º Parâmetro = Avaliação do jogo.
+
+##Login/Senha.
+-Login: admin.
+-Senha:123.
