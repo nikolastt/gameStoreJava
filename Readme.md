@@ -18,6 +18,6 @@ __________________________________________________________________________
 - 5º Parâmetro = Genero do jogo.
 - 6º Parâmetro = Avaliação do jogo.
 
-##Login/Senha.
--Login: admin.
--Senha:123.
+## Login/Senha.
+- Login: admin.
+- Senha:123.
