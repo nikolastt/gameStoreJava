@@ -1,0 +1,3 @@
+GTA V;true;26;2013;89.99;Ação;4
+God of War;false;2018;135;Ação-Aventura;4
+FIFA 22;true;4;2021;99;Esporte;2
