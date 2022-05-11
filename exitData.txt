@@ -1,42 +1,33 @@
 
 ===========================================================RELATÓRIO CLIENTE===========================================================
 Nome do Cliente: admin
-Jogos comprados: [FIFA 22]
-Total gasto: R$99,00
+Jogos comprados: [GTA V]
+Total gasto: R$89,99
 ===========================================================RELATÓRIO CLIENTE===========================================================
 
 
 
 
 
-===========================================================RELATORIO JOGOS LANÇADOS NA DATA 2021===========================================================
+===========================================================RELATORIO JOGOS LANÇADOS NA DATA 2017===========================================================
 
--------------------------FIFA 22-------------------------
-Nome: FIFA 22
-Ano de lançamento: 2021
-Preço: R$ 99.0
-Genero: Esporte
-Média Avaliação geral: ★★
+-------------------------FORTNITE-------------------------
+Nome: Fortnite
+Ano de lançamento: 2017
+Preço: R$ Gratis
+Genero: Battle Royale
+Média Avaliação geral: ★★★★
 Multplayer: 👍 
-Numero máximo de jogadores no multiplayer: 4 
-Avaliação do(a) admin: ★ 
--------------------------FIFA 22-------------------------
+Numero máximo de jogadores no multiplayer: 100 
+-------------------------FORTNITE-------------------------
 
-===========================================================RELATORIO JOGOS LANÇADOS NA DATA 2021===========================================================
-
-
-
-
-
-===========================================================RELATORIO JOGOS COM VALOR MENOR QUE R$ 50,00===========================================================
-
-===========================================================RELATORIO JOGOS COM VALOR MENOR QUE R$ 50,00===========================================================
+===========================================================RELATORIO JOGOS LANÇADOS NA DATA 2017===========================================================
 
 
 
 
 
-===========================================================RELATORIO JOGOS COM O GENERO AÇÃO===========================================================
+===========================================================RELATORIO JOGOS COM VALOR MENOR QUE R$ 100,00===========================================================
 
 -------------------------GTA V-------------------------
 Nome: GTA V
@@ -46,9 +37,48 @@ Genero: Ação
 Média Avaliação geral: ★★★★
 Multplayer: 👍 
 Numero máximo de jogadores no multiplayer: 26 
+Avaliação do(a) admin: ★★★★ 
 -------------------------GTA V-------------------------
+ 
+-------------------------FIFA 22-------------------------
+Nome: FIFA 22
+Ano de lançamento: 2021
+Preço: R$ 99.0
+Genero: Esporte
+Média Avaliação geral: ★★
+Multplayer: 👍 
+Numero máximo de jogadores no multiplayer: 4 
+-------------------------FIFA 22-------------------------
+ 
+-------------------------FORTNITE-------------------------
+Nome: Fortnite
+Ano de lançamento: 2017
+Preço: R$ Gratis
+Genero: Battle Royale
+Média Avaliação geral: ★★★★
+Multplayer: 👍 
+Numero máximo de jogadores no multiplayer: 100 
+-------------------------FORTNITE-------------------------
 
-===========================================================RELATORIO JOGOS COM O GENERO AÇÃO===========================================================
+===========================================================RELATORIO JOGOS COM VALOR MENOR QUE R$ 100,00===========================================================
+
+
+
+
+
+===========================================================RELATORIO JOGOS COM O GENERO BATTLE ROYALE===========================================================
+
+-------------------------FORTNITE-------------------------
+Nome: Fortnite
+Ano de lançamento: 2017
+Preço: R$ Gratis
+Genero: Battle Royale
+Média Avaliação geral: ★★★★
+Multplayer: 👍 
+Numero máximo de jogadores no multiplayer: 100 
+-------------------------FORTNITE-------------------------
+
+===========================================================RELATORIO JOGOS COM O GENERO BATTLE ROYALE===========================================================
 
 
 
@@ -66,6 +96,7 @@ Genero: Ação
 Média Avaliação geral: ★★★★
 Multplayer: 👍 
 Numero máximo de jogadores no multiplayer: 26 
+Avaliação do(a) admin: ★★★★ 
 -------------------------GTA V-------------------------
  
 -------------------------GOD OF WAR-------------------------
@@ -85,8 +116,17 @@ Genero: Esporte
 Média Avaliação geral: ★★
 Multplayer: 👍 
 Numero máximo de jogadores no multiplayer: 4 
-Avaliação do(a) admin: ★ 
 -------------------------FIFA 22-------------------------
+ 
+-------------------------FORTNITE-------------------------
+Nome: Fortnite
+Ano de lançamento: 2017
+Preço: R$ Gratis
+Genero: Battle Royale
+Média Avaliação geral: ★★★★
+Multplayer: 👍 
+Numero máximo de jogadores no multiplayer: 100 
+-------------------------FORTNITE-------------------------
 
 
 

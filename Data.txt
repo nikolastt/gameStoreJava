@@ -1,3 +1,5 @@
 GTA V;true;26;2013;89.99;Ação;4
 God of War;false;2018;135;Ação-Aventura;4
 FIFA 22;true;4;2021;99;Esporte;2
+Fortnite;true;100;2017;0;Battle Royale;4
+Homem aranha;false;2021;169;Ação;4

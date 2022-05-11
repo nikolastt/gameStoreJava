@@ -1,6 +1,7 @@
 # O arquivo de entrada "./Data.txt" é composto por uma lista de jogos. Segue os seguintes parâmetros separados por ";"
 
 ## Tipo de linha 1 (Se o jogo for multplayer).
+
 - 1º Parâmetro = Nome do jogo.
 - 2º Parâmetro = Se o jogo é ou não multplayer.
 - 3º Parâmetro = Quantidade de jogadores no multplayer.
@@ -9,8 +10,10 @@
 - 6º Parâmetro = Genero do jogo.
 - 7º Parâmetro = Avaliação do jogo.
 
-__________________________________________________________________________
+---
+
 ## Tipo de linha 2 (Se o jogo não for multplayer).
+
 - 1º Parâmetro = Nome do jogo.
 - 2º Parâmetro = Se o jogo é ou não multplayer.
 - 3º Parâmetro = Ano de lançamento do jogo.
@@ -19,5 +22,6 @@ __________________________________________________________________________
 - 6º Parâmetro = Avaliação do jogo.
 
 ## Login/Senha.
+
 - Login: admin.
-- Senha:123.
+- Senha: 123.

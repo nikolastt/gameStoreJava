@@ -74,7 +74,7 @@ public class MenuInteraction {
                     System.out.print("\n----------JOGOS COMPRADOS----------\n");
                     printPurshasedGames();
                     System.out.print("\n----------JOGOS COMPRADOS----------\n");
-                    if (client.getTotalPurchases() >= 0) {
+                    if (client.getPurchasedGames().size() > 0) {
                         while (nameGame.equals("")) {
                             System.out.println("\n\nDigite o nome do jogo que deseja dar a nota!");
                             nameGame = enter.nextLine();
